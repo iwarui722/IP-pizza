@@ -3,8 +3,8 @@
 ## Individual Project
 - This is an individual project for pizza website   .
 
-## Getting Started
-- To get the code from github , initiate a pull to download the code.
+## Setup
+- Clone from the repository : https://github.com/iwarui722/IP-pizza.git
 
 ## Prerequisites
 The software to install to run the code: 
